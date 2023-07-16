@@ -23,5 +23,5 @@ export let OPENAI_KEYS = [
 ];
 
 export let POE_KEYS = [
-    "your poe cookie here",
+    "rays_wMOAuHVLamk9tGAqQ%3D%3D",
 ];
